@@ -20,7 +20,7 @@
 <br>
 <h3 align="center">⭐ Connect with me:</h3>
 <p align="center"> 
-<a href="https://www.linkedin.com/in/om-rawal/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="om-rawal" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/om-rawal/" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/linkedin.png" alt="om-rawal" height="50" width="50" /></a>
 
 
 <br>
