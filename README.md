@@ -7,8 +7,8 @@
     <img src="https://badges.pufler.dev/commits/monthly/omrawal?color=blue" />
     </a> -->
     </p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=omrawal&show_icons=true&locale=en" alt="omrawal" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrawal&layout=compact&langs_count=8" alt="omrawal" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=omrawal&show_icons=true&locale=en&theme=tokyonight" alt="omrawal" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrawal&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook" alt="omrawal" />
 </p>
 <br>
 <br>
@@ -25,4 +25,4 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omrawal&" alt="omrawal" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omrawal&&theme=tokyonight" alt="omrawal" /></p>
