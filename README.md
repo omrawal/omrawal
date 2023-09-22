@@ -16,6 +16,7 @@
 💻  All of my projects are available at [https://github.com/omrawal](https://github.com/omrawal)
 
 📫  How to reach me **omrawal2801@gmail.com** **(For collaborations and opportunities)**
+<br>
 📫  How to reach me **[https://t.me/friendly_neighbourhood_alien](https://t.me/friendly_neighbourhood_alien)** **(For Doubts and discussions on the project)**
 <br>
 <br>
