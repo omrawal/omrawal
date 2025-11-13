@@ -11,11 +11,13 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrawal&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook" alt="omrawal" />
 </p>
 <br>
-<br>
+<br>[OmRawal_July_2025_SDE_3_Year_Experienced.pdf](https://github.com/user-attachments/files/23518929/OmRawal_July_2025_SDE_3_Year_Experienced.pdf)
+
 
 💻  All of my projects are available at [https://github.com/omrawal](https://github.com/omrawal) <br>
+<!-- 
 Resume link [https://drive.google.com/file/d/1jc3_-X2yIRaXD0YJWNVmoDBznsPU7d-P/view](https://drive.google.com/file/d/1jc3_-X2yIRaXD0YJWNVmoDBznsPU7d-P/view)
-
+-->
 📫  How to reach me **omrawal2801@gmail.com** **(For collaborations and opportunities)**  
 <br>  
 📫  How to reach me **[https://t.me/friendly_neighbourhood_alien](https://t.me/friendly_neighbourhood_alien)** **(For Doubts and discussions on the project)**
