@@ -11,7 +11,7 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrawal&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook" alt="omrawal" />
 </p>
 <br>
-<br>[OmRawal_July_2025_SDE_3_Year_Experienced.pdf](https://github.com/user-attachments/files/23518929/OmRawal_July_2025_SDE_3_Year_Experienced.pdf)
+<br>[OmRawal_July_2025_SDE_3_Year_Experienced.pdf](https://github.com/omrawal/omrawal/blob/main/OmRawal_July_2025_SDE_3_Year_Experienced.pdf)
 
 
 💻  All of my projects are available at [https://github.com/omrawal](https://github.com/omrawal) <br>
