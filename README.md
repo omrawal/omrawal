@@ -13,7 +13,8 @@
 <br>
 <br>
 
-💻  All of my projects are available at [https://github.com/omrawal](https://github.com/omrawal)
+💻  All of my projects are available at [https://github.com/omrawal](https://github.com/omrawal) <br>
+Resume link [https://drive.google.com/file/d/1jc3_-X2yIRaXD0YJWNVmoDBznsPU7d-P/view](https://drive.google.com/file/d/1jc3_-X2yIRaXD0YJWNVmoDBznsPU7d-P/view)
 
 📫  How to reach me **omrawal2801@gmail.com** **(For collaborations and opportunities)**  
 <br>  
